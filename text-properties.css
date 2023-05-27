@@ -1,0 +1,45 @@
+/* text-align
+text-indent */
+body{
+    /* text-align: center; */
+}
+.main{
+    /* text-align: center; */
+    /* text-align: right; */
+}
+.one{
+    /* text-indent: 100px; */
+}
+.two{
+    /* text-align: center; */
+}
+
+/* line-height
+letter-spacing
+word-spacing
+text-transform
+text-decoration */
+.one{
+    /* line-height: 2.5em; */
+    
+}
+.two{
+    /* letter-spacing: 5px; */
+}
+.three{
+    /* word-spacing: 20px; */
+}
+.m{
+   /* text-transform: capitalize; */
+   /* text-transform: uppercase; */
+}
+a{
+    /* font-size: 40px; */
+    /* text-decoration: none; */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: underline dashed; */
+    /* text-decoration: underline wavy; */
+    /* text-decoration: underline dotted; */
+}

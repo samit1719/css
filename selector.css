@@ -1,0 +1,42 @@
+/* type selector h1,p .. */
+/* body{
+    color: blue;
+} */
+/* h1{
+    color: blue;
+    font-size: 4rem;
+}
+h2{
+    color: red;
+}
+p{
+    color: gray;
+} */
+
+/* group selector */
+/* h1,h2{
+    color: black;
+} */
+
+/* id selector */
+/* #firsth1{
+    color: green;
+    background: black;
+}
+#secondh1{
+    color: blue;
+    background: red;
+} */
+
+/* class selector */
+/* .firsth2{
+    color: green;
+}
+.secondh2{
+    color: red;
+} */
+
+/* universal selector */
+/* *{
+    color: blue;
+} */

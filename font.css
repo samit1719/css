@@ -1,0 +1,44 @@
+/* 
+ font-family
+ */
+ body{
+     /* font-family: Helvetica; */
+ }
+ h1{
+     /* font-family: Verdana; */
+ }
+
+ /* font-stack generic-family
+ serif, sans-serif, cursive, fantasy, monospace */
+body{
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+h1{
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+
+/* google font 
+embed on html file or import on css file and do font-family:....;*/
+/* <link rel="stylesheet" href="font url"> */
+/* @import url("font url"); */
+body{
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+h1{
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+
+/* font-weight
+font-style */
+.one{
+    /* font-weight: bolder; */
+    /* font-weight: bold; */
+    /* font-weight: 100; */
+    /* font-weight: lighter; */
+
+    /* font-style: italic; */
+    /* font-style: oblique; */
+}
+
+
+

@@ -1,0 +1,11 @@
+.gray{
+    color: blue;
+    background: gray;
+}
+.green{
+    color: blue;
+    background: green;
+}
+span{
+    text-transform: uppercase;
+}

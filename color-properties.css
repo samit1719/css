@@ -1,0 +1,29 @@
+/* color properties */
+#first{
+    /* color: lightslategray; */
+    /* color: rgb(255, 0, 0); */
+    /* background-color: chocolate; */
+    /* background-color: rgb(0, 0, 0); */
+}
+#second{
+    /* color: crimson;
+    background: yellow; */
+}
+
+/* RGBA 0-1 opacity/transparency */
+#first{
+    /* color: rgb(100, 123, 56);
+    background: rgba(0, 0, 0, 0.5); */
+}
+#second{
+    /* color: rgb(45, 10, 34);
+    background: rgba(0, 0, 0, 0.25); */
+}
+
+/* hex color */
+#first{
+    /* color:  #FFFFFF;
+    background: #000000; */
+}
+
+
